@@ -1,1 +1,1 @@
-Hi, I'm **Irfan Aditya** working as backend developer !
+![Helloirfanaditya github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
