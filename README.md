@@ -1,1 +1,6 @@
-![Helloirfanaditya github stats](https://github-readme-stats.vercel.app/api?username=helloirfanaditya&count_private=false&show_icons=true)
+https://github-stats-alpha.vercel.app/api?username=helloirfanaditya&cc=000&tc=fff&ic=fff&bc=000
+
+Where cc = Card Color
+      tc = Text Color
+      ic = Icon Color
+      bc = Border Color
