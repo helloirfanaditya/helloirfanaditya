@@ -20,6 +20,6 @@
 ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel&color=353535) ![Bootstrap](https://img.shields.io/badge/-ExpressJS-05122A?style=flat-square&logo=ExpressJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-NextJS-05122A?style=flat-square&logo=NextJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Go-05122A?style=flat-square&logo=Go&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat-square&logo=TailwindCSS&color=353535)
 
 <div>
-  <img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloirfanaditya&show_icons=true&locale=en&layout=compact" alt="helloirfanaditya" />
-  <img width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=helloirfanaditya&" alt="helloirfanaditya" />
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloirfanaditya&show_icons=true&locale=en&layout=compact" alt="helloirfanaditya" />
+  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=helloirfanaditya&" alt="helloirfanaditya" />
 </div>
