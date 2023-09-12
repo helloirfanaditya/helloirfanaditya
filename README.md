@@ -21,5 +21,4 @@
 
 <div>
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloirfanaditya&show_icons=true&locale=en&layout=compact" alt="helloirfanaditya" />
-  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=helloirfanaditya&" alt="helloirfanaditya" />
 </div>
