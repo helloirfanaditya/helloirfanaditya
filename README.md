@@ -15,6 +15,7 @@
 - PHP (Laravel)
 - Golang
 - Nodejs
+- Bun.sh
 - Python
 ### ⚙️ Tech Stack
 
